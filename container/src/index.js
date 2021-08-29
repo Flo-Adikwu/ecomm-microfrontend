@@ -1,1 +1,1 @@
-import('./bootstrap')
+import('./bootstrap') //loads up bootstrap file asynchronously
